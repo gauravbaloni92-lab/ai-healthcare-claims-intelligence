@@ -1,0 +1,25 @@
+AI-Powered Healthcare Benefits Query Assistant
+
+Version: 1.0
+Release Date: 26 June 2026
+
+Developer:
+Gaurav Baloni
+
+Project:
+MCA Major Project
+Amity University
+
+Technology Stack:
+- Python
+- Flask
+- SQLite
+- HTML5
+- CSS3
+- Bootstrap 5
+- Machine Learning
+- Natural Language Processing (TF-IDF)
+- Logistic Regression
+
+Status:
+Stable Release (Version 1.0)

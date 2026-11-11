@@ -1,0 +1,164 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="card shadow result-box">
+
+    <div class="card-header bg-success text-white">
+
+        <h2>
+
+    <i class="fas fa-brain"></i>
+
+    Analysis Result
+
+</h2>
+
+    </div>
+
+    <div class="card-body">
+
+        <h5>Employee Name</h5>
+        <p>{{ username }}</p>
+
+        <div class="mb-3">
+
+    <h5>Issue Category</h5>
+
+    <div class="alert alert-info">
+
+        {{ category }}
+
+    </div>
+
+</div>
+
+        <h5>Priority</h5>
+        <p>{{ priority }}</p>
+
+        <h5>Severity</h5>
+
+{% if severity == "Critical" %}
+
+<span class="badge-critical">
+    {{ severity }}
+</span>
+
+{% elif severity == "High" %}
+
+<span class="badge-high">
+    {{ severity }}
+</span>
+
+{% elif severity == "Medium" %}
+
+<span class="badge-medium">
+    {{ severity }}
+</span>
+
+{% else %}
+
+<span class="badge-low">
+    {{ severity }}
+</span>
+
+{% endif %}
+
+        <h5>Assigned Team</h5>
+        <p>{{ team }}</p>
+
+        <h5>Confidence Score</h5>
+
+<span class="confidence-badge">
+
+    {{ confidence }}%
+
+</span>
+
+        <div class="alert alert-success mt-3">
+
+    <h5>Suggested Resolution</h5>
+
+    {{ recommendation }}
+
+</div>
+    <hr>
+
+<h4>🧠 AI Explainability</h4>
+
+<h5>Detected Healthcare Terms</h5>
+
+{% if detected_terms %}
+
+<ul>
+
+{% for word in detected_terms %}
+
+<li>{{ word }}</li>
+
+{% endfor %}
+
+</ul>
+
+{% else %}
+
+<p>No important healthcare keywords detected.</p>
+
+{% endif %}
+
+<hr>
+
+<h5>Top AI Predictions</h5>
+
+<table class="table table-bordered">
+
+<thead>
+
+<tr>
+
+<th>Category</th>
+
+<th>Probability</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+{% for item in predictions %}
+
+<tr>
+
+<td>{{ item[0] }}</td>
+
+<td>{{ "%.2f"|format(item[1]*100) }}%</td>
+
+</tr>
+
+{% endfor %}
+
+</tbody>
+
+</table>
+
+<div class="alert alert-info">
+
+<b>AI Model Used:</b><br>
+
+TF-IDF + Logistic Regression + Explainable AI
+
+</div>
+
+        <a href="/"
+           class="btn btn-primary">
+
+            Analyze Another Query
+
+        </a>
+
+    </div>
+
+</div>
+
+{% endblock %}

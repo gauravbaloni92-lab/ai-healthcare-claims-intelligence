@@ -1,0 +1,251 @@
+query,category
+cobra participant invoice missing,COBRA
+cobra continuation coverage issue,COBRA
+cobra election notice not received,COBRA
+cobra payment not posted,COBRA
+cobra qualifying event request,COBRA
+cobra dependent coverage issue,COBRA
+cobra premium invoice delay,COBRA
+cobra enrollment discrepancy,COBRA
+cobra termination request,COBRA
+cobra coverage effective date issue,COBRA
+cobra monthly payment issue,COBRA
+cobra reinstatement request,COBRA
+cobra eligibility verification,COBRA
+cobra notice mailed incorrectly,COBRA
+cobra billing discrepancy,COBRA
+cobra invoice amount incorrect,COBRA
+cobra participant address update,COBRA
+cobra open enrollment issue,COBRA
+cobra coverage termination problem,COBRA
+cobra participant missing from carrier file,COBRA
+cobra continuation election issue,COBRA
+cobra payment reconciliation issue,COBRA
+cobra premium collection problem,COBRA
+cobra dependent enrollment issue,COBRA
+cobra plan coverage mismatch,COBRA
+cobra benefits not active,COBRA
+cobra enrollment not processed,COBRA
+cobra invoice generation issue,COBRA
+cobra participant communication issue,COBRA
+cobra eligibility review request,COBRA
+cobra member cannot access coverage,COBRA
+cobra status update request,COBRA
+cobra record missing from enrollment file,COBRA
+cobra deduction discrepancy,COBRA
+cobra participant support request,COBRA
+cobra claim denied under continuation coverage,COBRA
+cobra coverage not reflected by carrier,COBRA
+cobra enrollment waiting for approval,COBRA
+cobra premium payment overdue,COBRA
+cobra account maintenance request,COBRA
+medical claim denied,Claims Support
+dental claim denied,Claims Support
+vision claim reimbursement issue,Claims Support
+claim processing delay,Claims Support
+claim review request,Claims Support
+medical reimbursement pending,Claims Support
+incorrect claim payment,Claims Support
+claim appeal request,Claims Support
+provider claim issue,Claims Support
+hospital claim denied,Claims Support
+prescription reimbursement issue,Claims Support
+claim adjudication problem,Claims Support
+out of network claim issue,Claims Support
+duplicate claim payment concern,Claims Support
+claim documentation missing,Claims Support
+claim status not updated,Claims Support
+claim adjustment request,Claims Support
+medical claim review required,Claims Support
+carrier denied claim incorrectly,Claims Support
+benefit claim discrepancy,Claims Support
+claim payment amount incorrect,Claims Support
+claim resubmission request,Claims Support
+claim escalation request,Claims Support
+provider billing claim issue,Claims Support
+claim under investigation,Claims Support
+medical service reimbursement pending,Claims Support
+claim settlement delay,Claims Support
+emergency care claim denied,Claims Support
+claim history review request,Claims Support
+preauthorization claim issue,Claims Support
+benefit payment not received,Claims Support
+claim processing exception,Claims Support
+medical reimbursement discrepancy,Claims Support
+claim rejected by carrier,Claims Support
+claim review pending approval,Claims Support
+member claim inquiry,Claims Support
+claim support request,Claims Support
+payment recovery issue,Claims Support
+claim adjustment not applied,Claims Support
+medical benefit claim error,Claims Support
+carrier cannot locate enrollment,Carrier Issue
+insurance company missing coverage,Carrier Issue
+carrier file transmission issue,Carrier Issue
+coverage not found by carrier,Carrier Issue
+carrier did not receive enrollment,Carrier Issue
+carrier enrollment discrepancy,Carrier Issue
+coverage active internally not carrier,Carrier Issue
+carrier eligibility mismatch,Carrier Issue
+carrier record missing,Carrier Issue
+carrier cannot verify member,Carrier Issue
+insurance provider cannot locate participant,Carrier Issue
+carrier update failed,Carrier Issue
+carrier system not reflecting enrollment,Carrier Issue
+medical carrier issue,Carrier Issue
+dental carrier issue,Carrier Issue
+vision carrier issue,Carrier Issue
+carrier communication failure,Carrier Issue
+member not visible in carrier portal,Carrier Issue
+carrier file rejected,Carrier Issue
+carrier reconciliation issue,Carrier Issue
+enrollment not received by carrier,Carrier Issue
+carrier support escalation,Carrier Issue
+coverage not updated by carrier,Carrier Issue
+carrier file processing error,Carrier Issue
+carrier member lookup failed,Carrier Issue
+carrier demographic mismatch,Carrier Issue
+carrier dependent enrollment issue,Carrier Issue
+insurance coverage synchronization issue,Carrier Issue
+carrier feed delay,Carrier Issue
+carrier enrollment audit issue,Carrier Issue
+participant missing at carrier,Carrier Issue
+carrier effective date mismatch,Carrier Issue
+carrier enrollment pending,Carrier Issue
+carrier confirmation missing,Carrier Issue
+insurance company unable to verify coverage,Carrier Issue
+carrier transaction failed,Carrier Issue
+member coverage not loaded at carrier,Carrier Issue
+carrier eligibility review required,Carrier Issue
+carrier data transmission issue,Carrier Issue
+carrier maintenance request,Carrier Issue
+dependent not showing coverage,Dependent Management
+add spouse to plan,Dependent Management
+child enrollment issue,Dependent Management
+dependent eligibility issue,Dependent Management
+new dependent enrollment request,Dependent Management
+spouse coverage update required,Dependent Management
+child coverage not active,Dependent Management
+dependent verification issue,Dependent Management
+dependent documentation pending,Dependent Management
+dependent relationship update,Dependent Management
+dependent cannot access benefits,Dependent Management
+dependent effective date issue,Dependent Management
+dependent removal request,Dependent Management
+dependent status mismatch,Dependent Management
+dependent record correction,Dependent Management
+spouse enrollment pending,Dependent Management
+child eligibility verification,Dependent Management
+dependent support request,Dependent Management
+dependent not found in system,Dependent Management
+dependent enrollment rejected,Dependent Management
+dependent coverage discrepancy,Dependent Management
+dependent audit issue,Dependent Management
+dependent information update,Dependent Management
+family member coverage issue,Dependent Management
+dependent enrollment review,Dependent Management
+dependent enrollment approval pending,Dependent Management
+dependent benefits not active,Dependent Management
+spouse benefit issue,Dependent Management
+child benefit issue,Dependent Management
+dependent missing from carrier file,Dependent Management
+dependent address update,Dependent Management
+dependent name correction,Dependent Management
+dependent date of birth correction,Dependent Management
+dependent plan change request,Dependent Management
+dependent verification document missing,Dependent Management
+family coverage request,Dependent Management
+dependent support inquiry,Dependent Management
+dependent enrollment delay,Dependent Management
+dependent coverage synchronization issue,Dependent Management
+dependent maintenance request,Dependent Management
+premium payment issue,Billing
+billing discrepancy,Billing
+invoice amount incorrect,Billing
+payroll deduction issue,Billing
+premium not deducted,Billing
+billing support request,Billing
+invoice not received,Billing
+duplicate premium charge,Billing
+billing reconciliation issue,Billing
+incorrect deduction amount,Billing
+payment posting delay,Billing
+invoice generation issue,Billing
+premium collection issue,Billing
+member billing concern,Billing
+billing adjustment request,Billing
+overpayment issue,Billing
+underpayment issue,Billing
+billing account review,Billing
+premium calculation mismatch,Billing
+invoice correction request,Billing
+billing dispute,Billing
+payment processing issue,Billing
+billing maintenance request,Billing
+billing audit issue,Billing
+premium refund request,Billing
+premium not reflected,Billing
+billing escalation request,Billing
+monthly premium issue,Billing
+coverage billing discrepancy,Billing
+invoice support inquiry,Billing
+deduction not updated,Billing
+billing effective date issue,Billing
+invoice overdue,Billing
+payment reconciliation discrepancy,Billing
+billing exception review,Billing
+incorrect premium amount,Billing
+participant billing request,Billing
+invoice delivery issue,Billing
+premium adjustment required,Billing
+billing system issue,Billing
+marriage event update,Life Event
+birth of child enrollment,Life Event
+divorce benefit update,Life Event
+adoption coverage request,Life Event
+life event documentation pending,Life Event
+marriage certificate submission,Life Event
+newborn enrollment request,Life Event
+divorce dependent removal,Life Event
+adoption dependent enrollment,Life Event
+qualified life event review,Life Event
+family status change,Life Event
+life event eligibility issue,Life Event
+marriage enrollment request,Life Event
+birth coverage update,Life Event
+life event approval pending,Life Event
+dependent addition after marriage,Life Event
+benefit change after birth,Life Event
+life event verification required,Life Event
+marital status correction,Life Event
+life event support inquiry,Life Event
+adoption benefit update,Life Event
+birth dependent not showing,Life Event
+divorce coverage adjustment,Life Event
+family change request,Life Event
+life event maintenance request,Life Event
+employee enrollment issue,Enrollment
+new hire enrollment problem,Enrollment
+coverage effective date issue,Enrollment
+benefit enrollment update,Enrollment
+open enrollment request,Enrollment
+employee benefit election issue,Enrollment
+enrollment not processed,Enrollment
+enrollment pending approval,Enrollment
+new hire benefits missing,Enrollment
+enrollment verification request,Enrollment
+coverage not active after enrollment,Enrollment
+enrollment support inquiry,Enrollment
+benefit election correction,Enrollment
+enrollment audit issue,Enrollment
+employee eligibility issue,Enrollment
+enrollment effective date mismatch,Enrollment
+coverage start date issue,Enrollment
+employee enrollment review,Enrollment
+benefit selection update,Enrollment
+enrollment record missing,Enrollment
+employee onboarding benefit issue,Enrollment
+coverage activation request,Enrollment
+benefit enrollment discrepancy,Enrollment
+enrollment maintenance request,Enrollment
+open enrollment support request,Enrollment

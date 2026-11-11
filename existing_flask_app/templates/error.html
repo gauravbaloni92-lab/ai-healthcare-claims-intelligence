@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="alert alert-danger">
+
+    <h3>
+
+        <i class="fas fa-triangle-exclamation"></i>
+
+        Validation Error
+
+    </h3>
+
+    <p>
+
+        {{ message }}
+
+    </p>
+
+    <a href="/"
+       class="btn btn-primary">
+
+        Return Home
+
+    </a>
+
+</div>
+
+{% endblock %}

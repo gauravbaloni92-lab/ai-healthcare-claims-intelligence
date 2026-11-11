@@ -1,0 +1,29 @@
+query,category
+cobra participant invoice missing,COBRA
+cobra continuation coverage issue,COBRA
+cobra eligibility problem,COBRA
+cobra qualifying event request,COBRA
+dependent not showing coverage,Dependent Management
+add spouse to plan,Dependent Management
+child enrollment issue,Dependent Management
+dependent eligibility issue,Dependent Management
+carrier cannot locate enrollment,Carrier Issue
+insurance company missing coverage,Carrier Issue
+carrier file transmission issue,Carrier Issue
+coverage not found by carrier,Carrier Issue
+claim denied by insurance,Claims Support
+medical reimbursement issue,Claims Support
+claim processing delay,Claims Support
+claim review request,Claims Support
+premium payment issue,Billing
+billing discrepancy,Billing
+invoice amount incorrect,Billing
+payroll deduction issue,Billing
+marriage event update,Life Event
+birth of child enrollment,Life Event
+divorce benefit update,Life Event
+adoption coverage request,Life Event
+employee enrollment issue,Enrollment
+new hire enrollment problem,Enrollment
+coverage effective date issue,Enrollment
+benefit enrollment update,Enrollment
